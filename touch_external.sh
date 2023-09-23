@@ -1,0 +1,1 @@
+touch godot_configurator_external
